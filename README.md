@@ -25,6 +25,15 @@ The system runs completely offline after model installation and keeps all docume
 
 ---
 
+🖼️ Screenshots
+Main Interface
+   Home
+
+  🎥 Demo Video
+     Working Demo Video
+
+Add your screen recording link here after uploading to YouTube or LinkedIn.
+---
 # 🧠 Architecture
 
 The application follows a Retrieval-Augmented Generation (RAG) pipeline.
